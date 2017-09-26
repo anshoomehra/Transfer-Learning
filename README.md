@@ -2,7 +2,7 @@
 
 Data Files:
 
-VGG:
+[a link]VGG:
 https://d17h27t6h515a5.cloudfront.net/topher/2016/October/58116e99_vgg-cifar10-bottleneck-data/vgg-cifar10-bottleneck-data.zip
 
 Inception/GoogLeNet:
